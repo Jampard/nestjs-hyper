@@ -46,8 +46,7 @@
     "rxjs": "7.5.4",
     "supertest": "6.2.2",
     "ts-jest": "27.1.3",
-    "typescript": "4.5.5",
-    "hyperdeebee": "github:Jampard/hyperdeebee"
+    "typescript": "4.5.5"
   },
   "dependencies": {
     "bson": "^4.7.0",
